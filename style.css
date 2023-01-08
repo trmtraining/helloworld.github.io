@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .container {
   height: 200px;
   position: relative;
@@ -54,3 +55,61 @@ h3 {
   left: 10px;
 }
 
+=======
+.container {
+  height: 200px;
+  position: relative;
+  
+}
+
+ .center {
+  margin: 0;
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+footer {
+    text-align:center;
+    color:black;
+    line-height:5px;
+}
+h1 {
+    color:blue;
+    text-align: center;
+    
+}
+
+h2 {
+    color:purple;
+    text-align: center;
+}
+
+body {
+    background-color:white;
+}
+
+h3 {
+    margin:top;
+    color:green;
+
+}
+
+.header img {
+  float: left;
+  width: 120px;
+  height: 100px;
+  background: powderblue;
+}
+
+
+
+.header h1 {
+  position: center;
+  top: 18px;
+  left: 10px;
+}
+
+>>>>>>> f0f9f002757a21223b92aef8eccdac4288ce1750
